@@ -21,6 +21,6 @@
         "no-debugger": "off",
         "no-console": 0,
         "class-methods-use-this": "off",
-        "no-explicit-any": "on"
+        "no-explicit-any": 1
     }
 }
